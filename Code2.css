@@ -1,0 +1,148 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #db5034;
+}
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a, a:hover {
+    text-decoration:none ;
+    margin: middle;
+}
+a{
+    text-decoration: none;
+    border-radius: 15%;
+    background-color: #3498DB;
+}
+.container-fluid {
+    padding: 0;
+}
+.point{
+    background-color: dark;
+}
+.banner {
+    width: 100%;
+    max-width: 100%;
+}
+.ban {
+    width: 100%;
+    max-width: 100%;
+    position: relative; 
+}
+.ban img {
+    width: 100%;
+    max-width: 100%;
+}
+.inner-banner {
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+}
+.taille {
+    font: size 60px; ;
+}
+.inner-banner h2 {
+    color: white;
+    text-shadow: 1px 1px 20px white;
+}
+.inner-banner .btn-custom {
+    background-color: #3498DB;
+    color: #ffffff;
+    font-size: 30px;
+}
+.inner-banner .btn-custom:hover {
+    background-color: #3498DB;
+}
+.about {
+    background-color: violet;
+}
+#about {
+    text-align: center;
+    padding-top: 5%;
+}
+.about article {
+    margin-top: 10%;
+    
+}
+.about article h2 {
+    text-align: center;
+
+}
+
+.fashion {
+    background-color: #eeeeee;
+    height: 50px;
+}
+#fashion {
+    text-align: center;
+}
+.separate{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+
+}
+.pospara{
+    margin-top: 5%;
+}
+.porsition{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.plapara{
+    margin-top: none;
+}
+
+.fashion img {
+    width: 100%;
+    max-width: 100v;
+}
+.couleur{
+    background-color: grey;
+    height: 700px;
+    text-align: center;
+    margin-top: 5%;
+}
+.tailles {
+    font-size: 20px;
+}
+.footer {
+    color: #ffffff;
+    text-align: center;
+    padding-top: 10%;
+    
+}
+#contact {
+    color: #ffffff;
+    text-align: center;
+}
+.FormulaireContact {
+    width: 500px;
+    display: block;
+    margin-top: 5%;
+}
+input[type="text"] {
+    height: 50px;
+    width: 500px;
+    border: none;
+}
+input[type="email"] {
+    height: 50px;
+    width: 500px;
+    border: none;
+}
+textarea {
+    height: 200px;
+    width: 500px;
+    resize:vertical
+}
+.espace {
+    margin-top: 5%;
+}
+
+
+
+
+
